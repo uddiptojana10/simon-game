@@ -1,4 +1,5 @@
 # Simon-game
+Play here: https://uddiptojana10.github.io/simon-game/
 
 What is a Simon game?
 It is an exciting game of lights and sounds in which players must repeat random sequences of flashing lights by pressing the colored pads in the correct order.
